@@ -1,0 +1,36 @@
+{
+  "name": "Late Company",
+  "status": "Working name. Concept in development.",
+  "colors": {
+    "aubergine": "#251820",
+    "burgundy": "#58313D",
+    "deepBurgundy": "#36212B",
+    "lamplight": "#E9B86F",
+    "oyster": "#F4EBDD",
+    "stone": "#C1AFAF",
+    "moss": "#778678"
+  },
+  "typography": {
+    "display": "Georgia, 'Times New Roman', serif",
+    "body": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif",
+    "displayWeight": 400,
+    "bodyWeight": 400
+  },
+  "layout": {
+    "maximumContentWidth": "1320px",
+    "desktopGutter": "56px",
+    "mobileGutter": "22px",
+    "controlRadius": "5px"
+  },
+  "language": {
+    "mainLine": "Good company. Even late.",
+    "descriptor": "A proposed social coworking lounge and cafe in Metro Detroit.",
+    "status": "Concept in development.",
+    "rules": [
+      "Describe amenities as planned until verified.",
+      "Describe 24-hour access as an ambition until operations are approved.",
+      "No em dashes or en dashes.",
+      "No fake testimonials, member counts, opening dates, reservations, or payment offers."
+    ]
+  }
+}

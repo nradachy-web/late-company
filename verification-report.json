@@ -1,0 +1,70 @@
+{
+  "passed": true,
+  "checks": 1923,
+  "errors": [],
+  "summaries": [
+    {
+      "format": "conditional_member_lounge",
+      "scenario": "conservative",
+      "yearOneOperatingCash": -150117,
+      "capitalBase": 461610,
+      "stressPeak": 42.4
+    },
+    {
+      "format": "conditional_member_lounge",
+      "scenario": "base",
+      "yearOneOperatingCash": 30034,
+      "capitalBase": 344473,
+      "stressPeak": 84.5
+    },
+    {
+      "format": "conditional_member_lounge",
+      "scenario": "upside",
+      "yearOneOperatingCash": 166891,
+      "capitalBase": 322610,
+      "stressPeak": 94.1
+    },
+    {
+      "format": "fully_staffed_24h",
+      "scenario": "conservative",
+      "yearOneOperatingCash": -345321,
+      "capitalBase": 699888,
+      "stressPeak": 46.9
+    },
+    {
+      "format": "fully_staffed_24h",
+      "scenario": "base",
+      "yearOneOperatingCash": -137157,
+      "capitalBase": 496907,
+      "stressPeak": 92.9
+    },
+    {
+      "format": "fully_staffed_24h",
+      "scenario": "upside",
+      "yearOneOperatingCash": 28354,
+      "capitalBase": 409835,
+      "stressPeak": 103
+    },
+    {
+      "format": "conditional_hybrid",
+      "scenario": "conservative",
+      "yearOneOperatingCash": -266912,
+      "capitalBase": 612756,
+      "stressPeak": 46.2
+    },
+    {
+      "format": "conditional_hybrid",
+      "scenario": "base",
+      "yearOneOperatingCash": -64240,
+      "capitalBase": 433019,
+      "stressPeak": 91.5
+    },
+    {
+      "format": "conditional_hybrid",
+      "scenario": "upside",
+      "yearOneOperatingCash": 95450,
+      "capitalBase": 377061,
+      "stressPeak": 101.5
+    }
+  ]
+}
